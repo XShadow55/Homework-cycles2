@@ -92,6 +92,7 @@ public class Main {
                     System.out.println("Месяц "+i*j+" сумма равна "+bank+" рублей");
                 }
                 if (i == 9 && j == 12){
+                    System.out.println();
                     System.out.println("Всего "+i*j+" месяцев и накопления составили "+bank+" рублей");
                 }
             }
